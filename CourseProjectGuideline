@@ -1,0 +1,33 @@
+#ESET 462 Course Project (Mini Maker Event Demo)
+The course project requires your team to design a gadget and you need to have a working prototype ready by the last week of the Fall semester (Before the reading days).
+Project requirements
+1.	Design a product that has potential commercial value or that has potential use in your daily life.
+2.	It must have a micro-controller (use of myRIO or other equivalent device needs to be approved by Dr. Zhan).
+3.	The prototype must have at least one sensor and one control action (for example, controlling motor speed, turn something on/off)
+4.	Use at least one thing you learned in ESET 462 (PID control, transfer function, stability analysis, digital system, etc.)
+5.	This project can be a part of your capstone project.
+Team formation
+This work should be carried out in teams of five. Please talk to your classmates and form your own team. Teams with more than five members should receive approval from Dr. Zhan. Your team may be assigned extra work. 
+Mini Maker Event
+1.	Participation in the event is mandatory.
+2.	The event will be held in the last week of the semester (The exact event date will be scheduled and announced later).
+3.	A presentation (video recording) is required for each team. If you miss the event, this will result in zero credit for both peer evaluation and instructor’s evaluation of the project. 
+Project report
+1.	An abstract containing no more than 500 words must be submitted through Canvas. The abstract should contain a brief description of your project. Due date of the abstract will be announced later.
+2.	A project report is mandatory and due by the 1st reading day.
+3.	A video recording of your demo must be submitted together with the report.
+4.	Project report should follow the writing style and formatting rules of the IEEE conference. https://www.ieee.org/conferences_events/conferences/publishing/templates.html
+5.	The report as a Word document should be submitted through Canvas.
+Project Evaluation
+	Instructor	non-team members	teammates
+Originality (or Significance)	10		
+Complexity	10		
+Functionality	10		
+Demo	15		
+Report	15		
+Contribution to your team			15
+Peer review (by non-team members)		15	
+Abstract 	10		
+(Peer Evaluation Guide: A+: 15, A: 13, B: 11, C: 9, D: 7, F: equal or less than 5)
+
+Students are expected to evaluate every project except their own project. For each project that you fail to evaluate, 1% will be deduced from your project score. You are also expected to evaluate your team members. Failure to evaluate your team members will cause you to lose 15% in your project score.
